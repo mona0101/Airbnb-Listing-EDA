@@ -11,11 +11,4 @@ The EDA process focuses on:
 - **Visualizations**: Using plots to explore feature distributions, correlations, and trends.
 - **Feature Analysis**: Investigating relationships between key variables.
 
-## Key Insights
-
-Some general findings from the analysis may include:
-
-- **Correlation between Features**: Identifying how different features relate to one another, such as positive/negative correlations.
-- **Distribution of Variables**: Understanding how the data is distributed (e.g., price, age, ratings) to identify potential anomalies or trends.
-- **Outlier Detection**: Identifying outliers that may impact analysis and decision-making.
   
