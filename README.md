@@ -19,9 +19,3 @@ Some general findings from the analysis may include:
 - **Distribution of Variables**: Understanding how the data is distributed (e.g., price, age, ratings) to identify potential anomalies or trends.
 - **Outlier Detection**: Identifying outliers that may impact analysis and decision-making.
   
-## Installation
-
-To run this project, you need Python and the following libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn
